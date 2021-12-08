@@ -1,0 +1,82 @@
+body {
+    background-color: #FFC996;
+    text-align: center;
+  }
+  
+  h1 {
+    font-family: 'Amatic SC', cursive;
+    color: #583D72;
+    margin: 2% 0% 0% 0%;
+    font-size: 60px;
+  }
+
+  p {
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+  }
+
+  .buttonClass {
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 35px;
+    margin: 2% 1% 1% 1%;    
+    padding: 20px;
+    width: 140px;
+    height: 30px;
+    border-width: 2px;
+    color: #fff;
+    border-color: #599bb3;
+    font-weight: bold;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    box-shadow: 0px 10px 14px -7px #276873;
+    text-shadow: 0px 1px 0px #3d768a;
+    background: linear-gradient(#9F5F80, #583D72);
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(#FF8474, #b97ff0);
+  }    
+  
+ #workoutP {
+    border-radius: 25px;
+    background: #FF8474;
+    height: 350px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    border: 3px solid #583D72;
+  }
+
+  #timer {
+    font-family: 'Amatic SC', cursive;
+    border-radius: 15px;
+    background: #FF8474;
+    height: 100px;
+    margin: 2% auto;
+    width: 40%;
+    border: 2px solid #583D72;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 40px;
+  }
+
+  #motivation {
+    color: #342443;
+    background-color: #FFC996;
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    text-align: center;
+    margin: 1% auto;
+    height: 50px;
+    width: 75%;
+    padding-bottom: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    vertical-align: middle;
+ }
